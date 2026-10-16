@@ -42,13 +42,9 @@ Membuat array angka 1 sampai 100, lalu mencetaknya **secara terbalik** (100 ke 1
 node small.js
 ```
  
-### Contoh output
+output
  
-```
-Bar, Foo, 98, Foo, Bar, 94, Foo, 92, 91, FooBar, 88, Foo, 86, Bar, Foo, 82, Foo, Bar, Foo, 77, 76, FooBar, 74, Foo, Bar, Foo, 68, Foo, Bar, 64, Foo, 62, FooBar, 58, Foo, 56, Bar, Foo, 52, Foo, Bar, 49, Foo, 46, FooBar, 44, Foo, Bar, Foo, 38, Foo, Bar, 34, Foo, 32, FooBar, 28, Foo, 26, Bar, Foo, 22, Foo, Bar, Foo, 16, FooBar, 14, Foo, Bar, Foo, 8, Foo, 4, 1
-```
- 
----
+(screenshot/small.png)
  
 ## 2. Weather Forecast Jakarta (`weather.js`)
  
@@ -81,18 +77,10 @@ export OPENWEATHER_API_KEY="API_KEY_ANDA"
 node weather.js
 ```
   
-### Contoh output
+ output
  
-Angka bergantung pada data dari API saat program dijalankan.
- 
-```
-Weather Forecast:
-Fri, 16 Oct 2026: 34.78°C
-Sat, 17 Oct 2026: 36.63°C
-Sun, 18 Oct 2026: 33.60°C
-Mon, 19 Oct 2026: 33.49°C
-Tue, 20 Oct 2026: 32.72°C
-```
+ (screenshot/weather.png)
+
   
 ## Struktur folder
  
