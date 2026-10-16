@@ -44,8 +44,8 @@ node small.js
  
 output
  
-(screenshot/small.png)
- 
+![Output small.js](screenshot/small.png)
+
 ## 2. Weather Forecast Jakarta (`weather.js`)
  
 ### Deskripsi
@@ -79,8 +79,7 @@ node weather.js
   
  output
  
- (screenshot/weather.png)
-
+![Output weather.js](screenshot/weather.png)
   
 ## Struktur folder
  
